@@ -1,0 +1,2 @@
+# VRTBloomRecursosComplementarios
+Este repositorio contiene los recursos complementarios del proyecto VRTBLOOM: FRAMEWORK PARA LA CREACIÓN DE ACTIVIDADES DE APRENDIZAJE PARA REALIDAD VIRTUAL BASADAS EN EL PRIMER NIVEL DE LA TAXONOMÍA DE BLOOM
